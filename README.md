@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**gausulsk24-max/gausulsk24-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gausul Shaikh 👋
 
-Here are some ideas to get you started:
+### Aspiring Data Analyst | Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.E. CSE (Data Science) Student
+
+I'm passionate about Data Science, Data Analytics, 
+Python Programming, and Artificial Intelligence.
+
+### 🚀 Technical Skills
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Data Analysis
+- Pandas & NumPy
+
+### 📂 My Interests
+- Data Analytics
+- Artificial Intelligence
+- Machine Learning
+- Problem Solving
+
+### 🎯 Career Goals
+Looking for Internship and Entry-Level Opportunities
+in Data Analytics and Python Development.
+
+### 🤝 Connect With Me
+- GitHub: https://github.com/gausulsk24-max
+- LinkedIn: https://www.linkedin.com/in/gausul-shaikh-5588b9318/
+
+---
+⭐ Thanks for visiting my profile!
